@@ -1,0 +1,7 @@
+{
+  "name": "SI-KPBJ Kabupaten Nagekeo",
+  "description": "Sistem Informasi & Konsultasi Pengadaan Barang dan Jasa Pemerintah Kabupaten Nagekeo, NTT",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
